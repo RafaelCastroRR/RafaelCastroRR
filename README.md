@@ -81,8 +81,10 @@ Los siguientes productos se encuentran corriendo en vivo en mi propia infraestru
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelCastroRR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelCastroRR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=RafaelCastroRR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RafaelCastroRR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="48%" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=RafaelCastroRR&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" width="97%" />
 </div>
 
 ---
